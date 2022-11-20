@@ -1,0 +1,4 @@
+name: Economy
+version: '${project.version}'
+main: me.dan.economy.Economy
+description: Simple Eco plugin for Orbit
